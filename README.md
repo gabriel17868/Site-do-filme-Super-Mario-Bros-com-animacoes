@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   Site do filme Mario Bros
 </h1>
@@ -36,3 +37,7 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 <a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
  <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
 </a>
+=======
+# Site-do-filme-Super-Mario-Bros-com-anima-es
+Site do filme Super Mario Bros com animações, foi utilizado HTML5, CSS3 e JavaScript.
+>>>>>>> 271c81732b2bd6d951d54186986704c363341745
